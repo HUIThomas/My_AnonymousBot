@@ -1,1 +1,2 @@
+git init
 git clone https://gitlab.com/scp-079/scp-079-pm.git ~/bots/scp-079/pm
